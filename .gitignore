@@ -1,0 +1,12 @@
+.idea
+*.iml
+.svn
+*.idea/*
+.idea.bak
+.project
+.classpath
+.settings
+.gradle
+*.jar
+*.class
+target/*
